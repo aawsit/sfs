@@ -1,4 +1,10 @@
 ::1 - - [05/Jul/2017:15:08:18 +0000] "GET / HTTP/1.1" 200 6870 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
 ::1 - - [05/Jul/2017:15:08:19 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+<<<<<<< HEAD
 ::1 - - [05/Jul/2017:15:39:34 +0000] "GET / HTTP/1.1" 500 1388 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
 ::1 - - [05/Jul/2017:16:18:21 +0000] "GET / HTTP/1.1" 500 1388 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+=======
+::ffff:192.168.100.164 - - [05/Jul/2017:15:27:56 +0000] "GET / HTTP/1.1" 500 1089 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+::ffff:192.168.100.164 - - [05/Jul/2017:15:27:56 +0000] "GET /favicon.ico HTTP/1.1" 500 1089 "http://aaws01w6:3500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+>>>>>>> 14e48967afc23f0626978b6f6425ca68618cd02d
+::1 - - [05/Jul/2017:16:20:51 +0000] "GET / HTTP/1.1" 200 6870 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
