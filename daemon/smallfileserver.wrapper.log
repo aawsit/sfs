@@ -1,0 +1,24 @@
+2017-07-05 11:24:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Program Files\nodejs\node_modules\node-windows\lib\wrapper.js" --file C:\nodeApps\sfs1\main.js --log "Small File Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 11:24:29 - Started 384
+2017-07-05 11:24:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Program Files\nodejs\node_modules\node-windows\lib\wrapper.js" --file C:\nodeApps\sfs1\main.js --log "Small File Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 11:24:43 - Started 3560
+2017-07-05 11:27:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Program Files\nodejs\node_modules\node-windows\lib\wrapper.js" --file C:\nodeApps\sfs1\main.js --log "Small File Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 11:27:50 - Started 3176
+2017-07-05 11:30:15 - Stopping smallfileserver.exe
+2017-07-05 11:30:15 - ProcessKill 3176
+2017-07-05 11:30:15 - Found child process: 1864 Name: conhost.exe
+2017-07-05 11:30:15 - Found child process: 2124 Name: node.exe
+2017-07-05 11:30:15 - Stopping process 1864
+2017-07-05 11:30:15 - Send SIGINT 1864
+2017-07-05 11:30:15 - SIGINT to 1864 failed - Killing as fallback
+2017-07-05 11:30:15 - Stopping process 2124
+2017-07-05 11:30:15 - Send SIGINT 2124
+2017-07-05 11:30:15 - SIGINT to 2124 failed - Killing as fallback
+2017-07-05 11:30:15 - Stopping process 3176
+2017-07-05 11:30:15 - Send SIGINT 3176
+2017-07-05 11:30:15 - SIGINT to 3176 failed - Killing as fallback
+2017-07-05 11:30:15 - Finished smallfileserver.exe
+2017-07-05 11:30:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Program Files\nodejs\node_modules\node-windows\lib\wrapper.js" --file C:\nodeApps\sfs1\main.js --log "Small File Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 11:30:17 - Started 4880
+2017-07-05 11:30:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Program Files\nodejs\node_modules\node-windows\lib\wrapper.js" --file C:\nodeApps\sfs1\main.js --log "Small File Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 11:30:34 - Started 2596
